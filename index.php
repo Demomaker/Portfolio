@@ -43,13 +43,6 @@
 			          <li><a href="about.html">About</a></li>
 			          <li><a href="services.html">Services</a></li>
 			          <li><a href="portfolio.html">Portfolio</a></li>
-			          <li><a href="price.html">Pricing</a></li>
-			          <li class="menu-has-children"><a href="">Blog</a>
-			            <ul>
-			              <li><a href="blog-home.html">Blog Home</a></li>
-			              <li><a href="blog-single.html">Blog Single</a></li>
-			            </ul>
-			          </li>	
 			          <li class="menu-has-children"><a href="">Pages</a>
 			            <ul>
 		            	  <li><a href="elements.html">Elements</a></li>
@@ -75,9 +68,7 @@
 						<div class="col-lg-6 col-md-6 banner-left">
 							<h6>This is me</h6>
 							<h1>Demomaker</h1>
-							<p>
-								You will begin to realise why this exercise is called the Dick Pattern with reference to the ghost showing Scrooge some different sexy future.
-							</p>
+							<p><?php include('Description.txt'); ?></p>
 							<a href="#" class="primary-btn text-uppercase">discover now</a>
 						</div>
 						<div class="col-lg-6 col-md-6 banner-right d-flex align-self-end">
