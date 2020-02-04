@@ -45,6 +45,7 @@
 				.appendTo($body);
 
 		// Panel.
+		/*
 			$(
 				'<div id="navPanel">' +
 					'<nav>' +
@@ -62,6 +63,6 @@
 					side: 'left',
 					target: $body,
 					visibleClass: 'navPanel-visible'
-				});
+				});*/
 
 })(jQuery);

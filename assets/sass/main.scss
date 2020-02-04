@@ -1350,7 +1350,7 @@
 				}
 			}
 
-			#navPanel {
+			/*#navPanel {
 				background-color: #1f1f1f;
 				box-shadow: inset -1px 0 3px 0 rgba(0,0,0,0.5);
 				@include vendor('background-image', ('linear-gradient(left, rgba(0,0,0,0) 75%, rgba(0,0,0,0.15))', 'url("images/bg01.png")'));
@@ -1389,7 +1389,7 @@
 					.indent-3 { display: inline-block; width: 3em; }
 					.indent-4 { display: inline-block; width: 4em; }
 					.indent-5 { display: inline-block; width: 5em; }
-				}
+				}*/
 			}
 
 			body {
@@ -1402,9 +1402,9 @@
 						@include vendor('transform', 'translateX(#{_size(navPanel)})');
 					}
 
-					#navPanel {
+					/*#navPanel {
 						@include vendor('transform', 'translateX(0)');
-					}
+					}*/
 				}
 			}
 
