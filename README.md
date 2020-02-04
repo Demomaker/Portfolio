@@ -31,4 +31,4 @@ Credits:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 		
-(Website)[https://demomaker.github.io/Demomaker/]
+[Website](https://portfolio.mikebedard.ca/)
